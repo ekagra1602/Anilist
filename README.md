@@ -2,10 +2,6 @@
 
 Welcome to Ani-List, a dynamic and visually engaging anime listing website. This project is designed to showcase the latest features of Next.js 14, especially the server actions, and to provide anime enthusiasts with a sleek, user-friendly platform for discovering and exploring anime series.
 
-## Live Demo
-
-Check out the live demo of the project here: [Ani-List Live](https://ani-list-4osywch6g-ayushx007.vercel.app/)
-
 ## Features
 
 - **Infinite Scrolling**: Seamlessly browse through anime listings with an infinite scroll feature, ensuring a continuous and engaging user experience.
